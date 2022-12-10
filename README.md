@@ -1,4 +1,1 @@
-# MinestomWorldEdit
-WorldEdit Platform implementation for Minestom server software
-
-Get the artifact from the latest actions workflow
+### This repository has been archived please use [The updated version](https://github.com/CityWideMC/World-Edit)
